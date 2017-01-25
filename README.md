@@ -1,3 +1,5 @@
 # GitHubLearning
 Just learn how to use Github
-This is the first commit I made for gitHUb
+
+delete one sentence and add below sentence
+LLLLLL
